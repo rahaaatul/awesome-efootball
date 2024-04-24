@@ -1,6 +1,6 @@
 name: "Share Player Progression"
 description: Share how you trained your player
-title: "[Player Card Name] [Player Name] Training Method"
+title: "[Card Type] [Event Type] [Player Name] Training Method"
 labels: ["training"]
 assignees: []
 body:
@@ -13,16 +13,13 @@ body:
     attributes:
       label: Player Card Name
       description: >
-        Please describe your environment in as much detail as possible. Otherwise, we may not be able to reproduce the issue.
+        Please describe your player card. Otherwise, we may not be able to understand which card you are referring to. Read this to find your Card Type & Event Type.
       placeholder: >
-        Example:
-          print "Device: $VENDOR | $OSTYPE | $CPUTYPE"
-          print "Shell: $SHELL | $ZSH_ARGZERO | $ZSH_PATCHLEVEL"
-          print "Zi: $(git -C $ZI[BIN_DIR] rev-parse HEAD)"
+        Example: [Epic] Argentina 2022 | L. Messi
     validations:
       required: true
   - type: textarea
-    id: repro
+    id: training
     attributes:
       label: Training Method
       description: "Fill the 0's with your progression points"
@@ -44,6 +41,6 @@ body:
     id: screenshot
     attributes:
       label: Screenshot
-      description: "Give a screenshot of the player card."
+      description: "Give a screenshot of the player card with progression points applied (if available) to identify it further."
     validations:
       required: true
