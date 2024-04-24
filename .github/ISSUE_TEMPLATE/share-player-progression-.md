@@ -11,22 +11,13 @@ assignees: ''
 A clear and concise description.
 
 # Progression Points
-**Shooting**
-
-**Passing**
-
-**Dribbling**
-
-**Dexterity**
-
-**Lower Body Strength**
-
-**Aerial Strength**
-
-**Defending**
-
-**GK 1**
-
-**GK 2**
-
-**GK 3**
+**Shooting**: 
+**Passing**: 
+**Dribbling**: 
+**Dexterity**: 
+**Lower Body Strength**: 
+**Aerial Strength**: 
+**Defending**: 
+**GK 1**: 
+**GK 2**: 
+**GK 3**: 
