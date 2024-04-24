@@ -8,7 +8,7 @@ Table of Contents
 ## <a name="database_sites"></a> Database Sites
 - [eFootball Hub](https://efootballhub.net/)
 - [eFootball DB](https://www.efootballdb.com/)
-- [PESDB)](https://pesdb.net/efootball/)
+- [PESDB](https://pesdb.net/efootball/)
 
 ## <a name="top_five"></a> Top 5 Players by Playstyles in Every League
 - [Liga BBVA MX](https://github.com/rahaaatul/awesome-efootball/blob/main/data/top-five/Liga%20BBVA%20MX.md)
