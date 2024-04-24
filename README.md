@@ -1,16 +1,17 @@
 # awesome-efootball
 
 Table of Contents
-1. [Database Sites](#-database-sites)
-2. Training Guides
-3. [Top 5 Players by Playstyles in Every League](#-top-5-players-by-playstyles-in-every-league)
+- [Database Sites](#database-sites)
+- Training Guides
+- [Top 5 Base Players by Playstyles](#Top-5-base-players-by-playstyles)
 
-## <a name="database_sites"></a> Database Sites
+## Database Sites
 - [eFootball Hub](https://efootballhub.net/)
 - [eFootball DB](https://www.efootballdb.com/)
 - [PESDB](https://pesdb.net/efootball/)
 
-## <a name="top_five"></a> Top 5 Players by Playstyles in Every League
+## Top 5 Base Players by Playstyles
+
 - [Liga BBVA MX](https://github.com/rahaaatul/awesome-efootball/blob/main/data/top-five/Liga%20BBVA%20MX.md)
 - [J. League](https://github.com/rahaaatul/awesome-efootball/blob/main/data/top-five/J.%20League.md)
 
