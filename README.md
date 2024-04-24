@@ -1,9 +1,9 @@
 # awesome-efootball
 
 Table of Contents
-1. [Database Sites](https://github.com/rahaaatul/awesome-efootball#-database-sites)
+1. [Database Sites](#-database-sites)
 2. Training Guides
-3. [Top 5 Players by Playstyles in Every League](https://github.com/rahaaatul/awesome-efootball#-top-5-players-by-playstyles-in-every-league)
+3. [Top 5 Players by Playstyles in Every League](#-top-5-players-by-playstyles-in-every-league)
 
 ## <a name="database_sites"></a> Database Sites
 - [eFootball Hub](https://efootballhub.net/)
