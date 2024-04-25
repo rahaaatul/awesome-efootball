@@ -13,29 +13,29 @@
 ### Dummy Runner
 | Rating |     Name     | Potential | Price  |
 | :----: | :----------: | :-------: | :----: |
-|   75   | G. Berterame |    89     | 35,000 |
-|   74   |  A. Hurtado  |    87     | 15,000 |
-|   72   |  F. Batista  |    87     | 13,000 |
-|   73   |   A. Loba    |    87     | 13,000 |
-|   73   |  C. Cowell   |    87     | 12,000 |
+|   75   | [G. Berterame](https://www.efootballhub.net/efootball23/player/111419) |    89     | 35,000 |
+|   74   |  [A. Hurtado](https://www.efootballhub.net/efootball23/player/45684)  |    87     | 15,000 |
+|   72   |  [F. Batista](https://www.efootballhub.net/efootball23/player/131914)  |    87     | 13,000 |
+|   73   |   [A. Loba](https://www.efootballhub.net/efootball23/player/147049)    |    87     | 13,000 |
+|   73   |  [C. Cowell](https://www.efootballhub.net/efootball23/player/142594)   |    87     | 12,000 |
 
 ### Poacher / Fox in the box
-| Rating |    Name     | Potential | Price  |
-| :----: | :---------: | :-------: | :----: |
-|   76   |  H. Marin   |    89     | 32,000 |
-|   75   |  N. Ibanez  |    89     | 29,000 |
-|   75   |  F. Vinas   |    88     | 32,000 |
-|   75   | Chicharito  |    88     | 22,000 |
-|   74   | H. Preciado |    88     | 22,000 |
+| Rating |                                 Name                                  | Potential | Price  |
+| :----: | :-------------------------------------------------------------------: | :-------: | :----: |
+|   76   |  [H. Martín](https://www.efootballhub.net/efootball23/player/118994)  |    89     | 32,000 |
+|   75   |  [N. Ibáñez](https://www.efootballhub.net/efootball23/player/114054)  |    89     | 29,000 |
+|   75   |  [N. Ibáñez](https://www.efootballhub.net/efootball23/player/114054)  |    88     | 32,000 |
+|   75   |  [Chicharito](https://www.efootballhub.net/efootball23/player/36556)  |    88     | 22,000 |
+|   74   | [H. Preciado](https://www.efootballhub.net/efootball23/player/107809) |    88     | 22,000 |
 
 ### Target Man
-| Rating |     Name     | Potential | Price  |
-| :----: | :----------: | :-------: | :----: |
-|   74   |  B. Vazquez  |    89     | 29,000 |
-|   74   |  S. Rondon   |    89     | 15,000 |
-|   73   | L. Cavallini |    88     | 14,000 |
-|   72   | G. Martinez  |    88     | 14,000 |
-|   70   |  J. Caicedo  |    88     | 9,800  |
+| Rating |                                  Name                                  | Potential | Price  |
+| :----: | :--------------------------------------------------------------------: | :-------: | :----: |
+|   74   |  [B. Vázquez](https://www.efootballhub.net/efootball23/player/142943)  |    89     | 29,000 |
+|   74   |   [S. Rondón](https://www.efootballhub.net/efootball23/player/39719)   |    89     | 15,000 |
+|   73   | [L. Cavallini](https://www.efootballhub.net/efootball23/player/118906) |    88     | 14,000 |
+|   72   | [G. Martínez](https://www.efootballhub.net/efootball23/player/147899)  |    88     | 14,000 |
+|   70   |  [J. Caicedo](https://www.efootballhub.net/efootball23/player/108317)  |    88     | 9,800  |
 
 ### Deep Lying Forward
 | Rating |      Name      | Potential | Price  |
