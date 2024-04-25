@@ -3,8 +3,8 @@
 Table of Contents
 - [Database Sites](#database-sites)
 - [Top 5 Base Players by Playstyles](#top-5-base-players-by-playstyles)
+- [YouTubers to Watch](#youtubers-to-watch)
 - [Contribute](#contribute)
-
 
 ## Database Sites
 - [eFootball Hub](https://efootballhub.net/)
@@ -16,6 +16,9 @@ Table of Contents
 - [Liga BBVA MX](https://github.com/rahaaatul/awesome-efootball/blob/main/data/top-five/Liga%20BBVA%20MX.md)
 - [J. League](https://github.com/rahaaatul/awesome-efootball/blob/main/data/top-five/J.%20League.md) `Under Construction`
 
+## YouTubers to Watch
+- [dedalus2k14](https://www.youtube.com/@dedalus2k143)
+- [LFFL](https://www.youtube.com/@ITZLFFL)
 # Contribute
 You can contribute in two ways. 
 - [Pull requests](https://github.com/rahaaatul/awesome-efootball/pulls): Add, Replace or Edit entries and Push!
