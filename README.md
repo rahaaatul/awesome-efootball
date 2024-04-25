@@ -1,9 +1,10 @@
-# awesome-efootball
+# Awesome eFootball
 
 Table of Contents
 - [Database Sites](#database-sites)
-- Training Guides
-- [Top 5 Base Players by Playstyles](#Top-5-base-players-by-playstyles)
+- [Top 5 Base Players by Playstyles](#top-5-base-players-by-playstyles)
+- [Contribute](#contribute)
+
 
 ## Database Sites
 - [eFootball Hub](https://efootballhub.net/)
@@ -13,7 +14,7 @@ Table of Contents
 ## Top 5 Base Players by Playstyles
 
 - [Liga BBVA MX](https://github.com/rahaaatul/awesome-efootball/blob/main/data/top-five/Liga%20BBVA%20MX.md)
-- [J. League](https://github.com/rahaaatul/awesome-efootball/blob/main/data/top-five/J.%20League.md)
+- [J. League](https://github.com/rahaaatul/awesome-efootball/blob/main/data/top-five/J.%20League.md) `Under Construction`
 
 # Contribute
 You can contribute in two ways. 
