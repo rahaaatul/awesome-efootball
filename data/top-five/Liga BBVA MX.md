@@ -38,30 +38,30 @@
 |   70   |  [J. Caicedo](https://www.efootballhub.net/efootball23/player/108317)  |    88     | 9,800  |
 
 ### Deep Lying Forward
-| Rating |      Name      | Potential | Price  |
-| :----: | :------------: | :-------: | :----: |
-|   77   |   A. Gignac    |    89     | 34,000 |
-|   72   | J. Juan Macias |    88     | 18,000 |
-|   67   |  R. Martinez   |    85     | 6,500  |
+| Rating |                                 Name                                 | Potential | Price  |
+| :----: | :------------------------------------------------------------------: | :-------: | :----: |
+|   77   |    [A. Gignac](https://efootballhub.net/efootball23/player/35017)    |    89     | 34,000 |
+|   72   | [J. Juan Macías](https://efootballhub.net/efootball23/player/118823) |    88     | 18,000 |
+|   67   |  [R. Martínez](https://efootballhub.net/efootball23/player/147932)   |    85     | 6,500  |
 * Only 3 DLFs in the whole league
 
 ### Creative Playmaker
-| Rating |                              Name                               | Potential | Price  |
-| :----: | :-------------------------------------------------------------: | :-------: | :----: |
-|   78   |                         Sergio Canales                          |    90     | 51,000 |
-|   74   |                           S. Cordova                            |    88     | 22,000 |
-|   74   |                           C. Rotondi                            |    88     | 20,000 |
-|   73   |                          N. Benedetti                           |    88     | 14,000 |
-|   72   | [J. Colmán](https://efootballhub.net/efootball23/player/157502) |    87     | 14,000 |
+| Rating |                                Name                                 | Potential | Price  |
+| :----: | :-----------------------------------------------------------------: | :-------: | :----: |
+|   78   | [Sergio Canales](https://efootballhub.net/efootball23/player/38655) |    90     | 51,000 |
+|   74   |  [S. Córdova](https://efootballhub.net/efootball23/player/145752)   |    88     | 22,000 |
+|   74   |  [C. Rotondi](https://efootballhub.net/efootball23/player/117647)   |    88     | 20,000 |
+|   73   | [N. Benedetti](https://efootballhub.net/efootball23/player/119921)  |    88     | 14,000 |
+|   72   |   [J. Colmán](https://efootballhub.net/efootball23/player/157502)   |    87     | 14,000 |
 
 ### Prolific Winger
-| Rating |      Name       | Potential | Price  |
-| :----: | :-------------: | :-------: | :----: |
-|   75   |     A. Vega     |           | 32,000 |
-|   75   |   O. Idrissi    |           | 32,000 |
-|   74   |   L. Quinones   |           | 15,000 |
-|   73   | Brian Rodriguez |           | 18,000 |
-|   73   |     Vitinho     |           | 26,000 |
+| Rating |                                 Name                                  | Potential | Price  |
+| :----: | :-------------------------------------------------------------------: | :-------: | :----: |
+|   75   |     [A. Vega](https://efootballhub.net/efootball23/player/119045)     |    89     | 32,000 |
+|   75   |   [O. Idrissi](https://efootballhub.net/efootball23/player/110577)    |    89     | 32,000 |
+|   74   |   [L. Quiñones](https://efootballhub.net/efootball23/player/106267)   |    87     | 15,000 |
+|   73   | [Brian Rodríguez](https://efootballhub.net/efootball23/player/143071) |    88     | 18,000 |
+|   73   |     [Vitinho](https://efootballhub.net/efootball23/player/140272)     |    89     | 26,000 |
 
 ### Roaming Flank
 | Rating |    Name     | Potential | Price  |
@@ -86,6 +86,8 @@
 |   76   |   D. Valdes    |           | 32,000 |
 |   72   | D. Villalpando |           | 14,000 |
 |   72   |   L. Montes    |           | 10,000 |
+* Only 3 CN10s in the whole league
+
 ### Hole Player
 | Rating |     Name     | Potential | Price  |
 | :----: | :----------: | :-------: | :----: |
@@ -172,6 +174,7 @@
 |   73   |      A. Mozo      |           | 20,000 |
 |   71   | Gustavo Ferrareis |           | 10,000 |
 |   67   |    C. Sanchez     |           | 6,500  |
+* Only 4 FFs in the whole league
 
 ### Offensive Goalkeeper
 | Rating |    Name    | Potential | Price  |
