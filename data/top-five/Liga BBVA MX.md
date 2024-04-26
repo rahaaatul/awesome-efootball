@@ -1,7 +1,7 @@
-> [!info] These are Base Team Players only!
+> [!IMPORTANT]
+> It's a **Standard Players** only list!
 
 ### Advanced Striker / Goal Poacher
-
 | Rating |                                Name                                 | Potential | Price  |
 | :----: | :-----------------------------------------------------------------: | :-------: | :----: |
 |   75   |  [J. Quiñones](https://efootballhub.net/efootball23/player/119019)  |    89     | 32,000 |
@@ -43,7 +43,8 @@
 |   77   |    [A. Gignac](https://efootballhub.net/efootball23/player/35017)    |    89     | 34,000 |
 |   72   | [J. Juan Macías](https://efootballhub.net/efootball23/player/118823) |    88     | 18,000 |
 |   67   |  [R. Martínez](https://efootballhub.net/efootball23/player/147932)   |    85     | 6,500  |
-* Only 3 DLFs in the whole league
+> [!NOTE]
+> Only 3 DLFs in the whole league
 
 ### Creative Playmaker
 | Rating |                                Name                                 | Potential | Price  |
@@ -64,29 +65,30 @@
 |   73   |     [Vitinho](https://efootballhub.net/efootball23/player/140272)     |    89     | 26,000 |
 
 ### Roaming Flank
-| Rating |    Name     | Potential | Price  |
-| :----: | :---------: | :-------: | :----: |
-|   77   |  J. Corona  |           | 34,000 |
-|   75   |  U. Antuna  |           | 22,000 |
-|   75   |   M. Meza   |           | 32,000 |
-|   74   |  C. Huerta  |           | 29,000 |
-|   74   | A. Zendejas |           | 29,000 |
+| Rating |                               Name                                | Potential | Price  |
+| :----: | :---------------------------------------------------------------: | :-------: | :----: |
+|   77   |  [J. Corona](https://efootballhub.net/efootball23/player/42721)   |    89     | 34,000 |
+|   75   |  [U. Antuna](https://efootballhub.net/efootball23/player/118423)  |    88     | 22,000 |
+|   75   |   [M. Meza](https://efootballhub.net/efootball23/player/60308)    |    89     | 32,000 |
+|   74   |  [C. Huerta](https://efootballhub.net/efootball23/player/147783)  |    89     | 29,000 |
+|   74   | [Á. Zendejas](https://efootballhub.net/efootball23/player/147775) |    89     | 29,000 |
 
 ### Cross Specialist
-| Rating |       Name       | Potential | Price  |
-| :----: | :--------------: | :-------: | :----: |
-|   73   |    M. Araujo     |           | 20,000 |
-|   73   |    K. Vealsco    |           | 14,000 |
-|   73   |    I. Revero     |           | 15,000 |
-|   72   |   C. Cisneros    |           | 14,000 |
-|   71   | Miguel Rodriguez |           | 12,000 |
+| Rating |                                  Name                                  | Potential | Price  |
+| :----: | :--------------------------------------------------------------------: | :-------: | :----: |
+|   73   |    [M. Araújo](https://efootballhub.net/efootball23/player/147895)     |    88     | 20,000 |
+|   73   |    [K. Velasco](https://efootballhub.net/efootball23/player/126280)    |    87     | 14,000 |
+|   73   |    [I. Rivero](https://efootballhub.net/efootball23/player/105358)     |    87     | 15,000 |
+|   72   |   [C. Cisneros](https://efootballhub.net/efootball23/player/118820)    |    87     | 14,000 |
+|   71   | [Miguel Rodríguez](https://efootballhub.net/efootball23/player/163636) |    87     | 12,000 |
 ### Classic No. 10
-| Rating |      Name      | Potential | Price  |
-| :----: | :------------: | :-------: | :----: |
-|   76   |   D. Valdes    |           | 32,000 |
-|   72   | D. Villalpando |           | 14,000 |
-|   72   |   L. Montes    |           | 10,000 |
-* Only 3 CN10s in the whole league
+| Rating |                                 Name                                 | Potential | Price  |
+| :----: | :------------------------------------------------------------------: | :-------: | :----: |
+|   76   |    [D. Valdés](https://efootballhub.net/efootball23/player/59196)    |    89     | 32,000 |
+|   72   | [D. Villalpando](https://efootballhub.net/efootball23/player/106310) |    87     | 14,000 |
+|   72   |    [L. Montes](https://efootballhub.net/efootball23/player/36584)    |    86     | 10,000 |
+> [!NOTE]
+> Only 3 CN10s in the whole league
 
 ### Hole Player
 | Rating |     Name     | Potential | Price  |
@@ -174,7 +176,8 @@
 |   73   |      A. Mozo      |           | 20,000 |
 |   71   | Gustavo Ferrareis |           | 10,000 |
 |   67   |    C. Sanchez     |           | 6,500  |
-* Only 4 FFs in the whole league
+> [!NOTE]
+> Only 4 FFs in the whole league
 
 ### Offensive Goalkeeper
 | Rating |    Name    | Potential | Price  |
