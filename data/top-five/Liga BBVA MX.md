@@ -1,7 +1,6 @@
-> [!IMPORTANT]
-> It's a **Standard Players** only list!
+> [!IMPORTANT]- It's a **Standard Players** only list!
 
-### Advanced Striker / Goal Poacher
+# Advanced Striker / Goal Poacher
 | Rating |                                Name                                 | Potential | Price  |
 | :----: | :-----------------------------------------------------------------: | :-------: | :----: |
 |   75   |  [J. Quiñones](https://efootballhub.net/efootball23/player/119019)  |    89     | 32,000 |
@@ -10,7 +9,7 @@
 |   73   |    [F. Boli](https://efootballhub.net/efootball23/player/160739)    |    87     | 15,000 |
 |   73   | [G. del Prete](https://efootballhub.net/efootball23/player/146790)  |    87     | 14,000 |
 
-### Dummy Runner
+# Dummy Runner
 | Rating |     Name     | Potential | Price  |
 | :----: | :----------: | :-------: | :----: |
 |   75   | [G. Berterame](https://www.efootballhub.net/efootball23/player/111419) |    89     | 35,000 |
@@ -19,7 +18,7 @@
 |   73   |   [A. Loba](https://www.efootballhub.net/efootball23/player/147049)    |    87     | 13,000 |
 |   73   |  [C. Cowell](https://www.efootballhub.net/efootball23/player/142594)   |    87     | 12,000 |
 
-### Poacher / Fox in the box
+# Poacher / Fox in the box
 | Rating |                                 Name                                  | Potential | Price  |
 | :----: | :-------------------------------------------------------------------: | :-------: | :----: |
 |   76   |  [H. Martín](https://www.efootballhub.net/efootball23/player/118994)  |    89     | 32,000 |
@@ -28,7 +27,7 @@
 |   75   |  [Chicharito](https://www.efootballhub.net/efootball23/player/36556)  |    88     | 22,000 |
 |   74   | [H. Preciado](https://www.efootballhub.net/efootball23/player/107809) |    88     | 22,000 |
 
-### Target Man
+# Target Man
 | Rating |                                  Name                                  | Potential | Price  |
 | :----: | :--------------------------------------------------------------------: | :-------: | :----: |
 |   74   |  [B. Vázquez](https://www.efootballhub.net/efootball23/player/142943)  |    89     | 29,000 |
@@ -37,16 +36,16 @@
 |   72   | [G. Martínez](https://www.efootballhub.net/efootball23/player/147899)  |    88     | 14,000 |
 |   70   |  [J. Caicedo](https://www.efootballhub.net/efootball23/player/108317)  |    88     | 9,800  |
 
-### Deep Lying Forward
+# Deep Lying Forward
+> [!NOTE]- Only 3 DLFs in the whole league
+
 | Rating |                                 Name                                 | Potential | Price  |
 | :----: | :------------------------------------------------------------------: | :-------: | :----: |
 |   77   |    [A. Gignac](https://efootballhub.net/efootball23/player/35017)    |    89     | 34,000 |
 |   72   | [J. Juan Macías](https://efootballhub.net/efootball23/player/118823) |    88     | 18,000 |
 |   67   |  [R. Martínez](https://efootballhub.net/efootball23/player/147932)   |    85     | 6,500  |
-> [!NOTE]
-> Only 3 DLFs in the whole league
 
-### Creative Playmaker
+# Creative Playmaker
 | Rating |                                Name                                 | Potential | Price  |
 | :----: | :-----------------------------------------------------------------: | :-------: | :----: |
 |   78   | [Sergio Canales](https://efootballhub.net/efootball23/player/38655) |    90     | 51,000 |
@@ -55,7 +54,7 @@
 |   73   | [N. Benedetti](https://efootballhub.net/efootball23/player/119921)  |    88     | 14,000 |
 |   72   |   [J. Colmán](https://efootballhub.net/efootball23/player/157502)   |    87     | 14,000 |
 
-### Prolific Winger
+# Prolific Winger
 | Rating |                                 Name                                  | Potential | Price  |
 | :----: | :-------------------------------------------------------------------: | :-------: | :----: |
 |   75   |     [A. Vega](https://efootballhub.net/efootball23/player/119045)     |    89     | 32,000 |
@@ -64,7 +63,7 @@
 |   73   | [Brian Rodríguez](https://efootballhub.net/efootball23/player/143071) |    88     | 18,000 |
 |   73   |     [Vitinho](https://efootballhub.net/efootball23/player/140272)     |    89     | 26,000 |
 
-### Roaming Flank
+# Roaming Flank
 | Rating |                               Name                                | Potential | Price  |
 | :----: | :---------------------------------------------------------------: | :-------: | :----: |
 |   77   |  [J. Corona](https://efootballhub.net/efootball23/player/42721)   |    89     | 34,000 |
@@ -73,7 +72,7 @@
 |   74   |  [C. Huerta](https://efootballhub.net/efootball23/player/147783)  |    89     | 29,000 |
 |   74   | [Á. Zendejas](https://efootballhub.net/efootball23/player/147775) |    89     | 29,000 |
 
-### Cross Specialist
+# Cross Specialist
 | Rating |                                  Name                                  | Potential | Price  |
 | :----: | :--------------------------------------------------------------------: | :-------: | :----: |
 |   73   |    [M. Araújo](https://efootballhub.net/efootball23/player/147895)     |    88     | 20,000 |
@@ -81,16 +80,16 @@
 |   73   |    [I. Rivero](https://efootballhub.net/efootball23/player/105358)     |    87     | 15,000 |
 |   72   |   [C. Cisneros](https://efootballhub.net/efootball23/player/118820)    |    87     | 14,000 |
 |   71   | [Miguel Rodríguez](https://efootballhub.net/efootball23/player/163636) |    87     | 12,000 |
-### Classic No. 10
+# Classic No. 10
+> [!NOTE]- Only 3 CN10s in the whole league
+
 | Rating |                                 Name                                 | Potential | Price  |
 | :----: | :------------------------------------------------------------------: | :-------: | :----: |
 |   76   |    [D. Valdés](https://efootballhub.net/efootball23/player/59196)    |    89     | 32,000 |
 |   72   | [D. Villalpando](https://efootballhub.net/efootball23/player/106310) |    87     | 14,000 |
 |   72   |    [L. Montes](https://efootballhub.net/efootball23/player/36584)    |    86     | 10,000 |
-> [!NOTE]
-> Only 3 CN10s in the whole league
 
-### Hole Player
+# Hole Player
 | Rating |     Name     | Potential | Price  |
 | :----: | :----------: | :-------: | :----: |
 |   76   | J. Brunetta  |           | 32,000 |
@@ -98,7 +97,8 @@
 |   75   | F. Gorriaran |           | 32,000 |
 |   74   | L. Rodriguez |           | 20,000 |
 |   73   |  E. Alvarez  |           | 18,000 |
-### Box to Box
+
+# Box to Box
 | Rating |     Name     | Potential | Price  |
 | :----: | :----------: | :-------: | :----: |
 |   75   | C. Rodriguez |           | 32,000 |
@@ -106,7 +106,8 @@
 |   75   |  E. Sanchez  |           | 29,000 |
 |   73   |  J. Zapata   |           | 20,000 |
 |   73   |  F. Beltran  |           | 20,000 |
-### Anchor Man
+
+# Anchor Man
 | Rating |     Name     | Potential | Price  |
 | :----: | :----------: | :-------: | :----: |
 |   74   | J. Rodriguez |           | 15,000 |
@@ -115,7 +116,7 @@
 |   73   |  P. Aquino   |           | 15,000 |
 |   73   |  F. Lertora  |           | 15,000 |
 
-### The Destroyer
+# The Destroyer
 | Rating |      Name       | Potential | Price  |
 | :----: | :-------------: | :-------: | :----: |
 |   74   |   D. de Buen    |           | 15,000 |
@@ -124,7 +125,7 @@
 |   73   |   S. Caceres    |           | 20,000 |
 |   73   |  E. Gutierrez   |           | 15,000 |
 
-### Orchestrator
+# Orchestrator
 | Rating |      Name      | Potential | Price  |
 | :----: | :------------: | :-------: | :----: |
 |   75   |    L. Romo     |           | 32,000 |
@@ -133,7 +134,7 @@
 |   75   | Rafael Carioca |           | 32,000 |
 |   73   |    M. Ruiz     |           | 20,000 |
 
-### Build Up
+# Build Up
 | Rating |    Name     | Potential | Price  |
 | :----: | :---------: | :-------: | :----: |
 |   74   |  S. Nunez   |           | 20,000 |
@@ -142,7 +143,7 @@
 |   74   | Unai Bilbao |           | 15,000 |
 |   73   |  V. Guzman  |           | 18,000 |
 
-### Extra Frontman
+# Extra Frontman
 | Rating |   Name    | Potential | Price  |
 | :----: | :-------: | :-------: | :----: |
 |   75   | A. Frias  |           | 29,000 |
@@ -151,7 +152,7 @@
 |   73   |   Doria   |           | 14,000 |
 |   73   | G. Cabral |           | 15,000 |
 
-### Offensive Fullback
+# Offensive Fullback
 | Rating |    Name     | Potential | Price  |
 | :----: | :---------: | :-------: | :----: |
 |   75   | J. Gallardo |           | 32,000 |
@@ -160,7 +161,7 @@
 |   73   | K. Alvarez  |           | 20,000 |
 |   73   |  B. Garcia  |           | 14,000 |
 
-### Defensive Fullback
+# Defensive Fullback
 | Rating |     Name     | Potential | Price  |
 | :----: | :----------: | :-------: | :----: |
 |   73   |  J. Angulo   |           | 20,000 |
@@ -169,17 +170,17 @@
 |   72   | O. Rodriguez |           | 14,000 |
 |   72   |  B. Angulo   |           | 14,000 |
 
-### Fullback Finisher
+# Fullback Finisher
+> [!NOTE]- Only 4 FFs in the whole league
+
 | Rating |       Name        | Potential | Price  |
 | :----: | :---------------: | :-------: | :----: |
 |   73   |    D. Barbosa     |           | 14,000 |
 |   73   |      A. Mozo      |           | 20,000 |
 |   71   | Gustavo Ferrareis |           | 10,000 |
 |   67   |    C. Sanchez     |           | 6,500  |
-> [!NOTE]
-> Only 4 FFs in the whole league
 
-### Offensive Goalkeeper
+# Offensive Goalkeeper
 | Rating |    Name    | Potential | Price  |
 | :----: | :--------: | :-------: | :----: |
 |   76   | C. Acevedo |           | 32,000 |
@@ -188,7 +189,7 @@
 |   75   | E. Andrada |           | 32,000 |
 |   75   | N. Guzman  |           | 32,000 |
 
-### Defensive Goalkeeper
+# Defensive Goalkeeper
 | Rating |     Name      | Potential | Price |
 | :----: | :-----------: | :-------: | :---: |
 |   71   |   A. Gudino   |           | 9,800 |
