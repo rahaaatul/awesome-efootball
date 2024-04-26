@@ -1,4 +1,5 @@
-> [!IMPORTANT]- It's a **Standard Players** only list!
+> [!IMPORTANT]
+> It's a **Standard Players** only list!
 
 # Advanced Striker / Goal Poacher
 | Rating |                                Name                                 | Potential | Price  |
@@ -37,7 +38,8 @@
 |   70   |  [J. Caicedo](https://www.efootballhub.net/efootball23/player/108317)  |    88     | 9,800  |
 
 # Deep Lying Forward
-> [!NOTE]- Only 3 DLFs in the whole league
+> [!NOTE]
+> Only 3 DLFs in the whole league
 
 | Rating |                                 Name                                 | Potential | Price  |
 | :----: | :------------------------------------------------------------------: | :-------: | :----: |
@@ -81,7 +83,8 @@
 |   72   |   [C. Cisneros](https://efootballhub.net/efootball23/player/118820)    |    87     | 14,000 |
 |   71   | [Miguel Rodríguez](https://efootballhub.net/efootball23/player/163636) |    87     | 12,000 |
 # Classic No. 10
-> [!NOTE]- Only 3 CN10s in the whole league
+> [!NOTE]
+> Only 3 CN10s in the whole league
 
 | Rating |                                 Name                                 | Potential | Price  |
 | :----: | :------------------------------------------------------------------: | :-------: | :----: |
@@ -171,7 +174,8 @@
 |   72   |  B. Angulo   |           | 14,000 |
 
 # Fullback Finisher
-> [!NOTE]- Only 4 FFs in the whole league
+> [!NOTE]
+> Only 4 FFs in the whole league
 
 | Rating |       Name        | Potential | Price  |
 | :----: | :---------------: | :-------: | :----: |
