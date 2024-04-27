@@ -1,5 +1,6 @@
 > [!IMPORTANT]
-> It's a **Standard Players** only list!
+> - It's a **Standard Players** only list!
+> - Selected based on Player Value.
 
 # Advanced Striker / Goal Poacher
 | Rating |                                Name                                 | Potential | Price  |
@@ -93,49 +94,49 @@
 |   72   |    [L. Montes](https://efootballhub.net/efootball23/player/36584)    |    86     | 10,000 |
 
 # Hole Player
-| Rating |     Name     | Potential | Price  |
-| :----: | :----------: | :-------: | :----: |
-|   76   | J. Brunetta  |           | 32,000 |
-|   75   |  V. Guzman   |           | 32,000 |
-|   75   | F. Gorriaran |           | 32,000 |
-|   74   | L. Rodriguez |           | 20,000 |
-|   73   |  E. Alvarez  |           | 18,000 |
+| Rating |                                  Name                                  | Potential | Price  |
+| :----: | :--------------------------------------------------------------------: | :-------: | :----: |
+|   76   | [J. Brunetta](https://www.efootballhub.net/efootball23/player/114057)  |    89     | 32,000 |
+|   75   |  [V. Guzmán](https://www.efootballhub.net/efootball23/player/118912)   |    89     | 32,000 |
+|   75   | [F. Gorriarán](https://www.efootballhub.net/efootball23/player/65272)  |    89     | 32,000 |
+|   74   | [L. Rodríguez](https://www.efootballhub.net/efootball23/player/108782) |    88     | 20,000 |
+|   73   |  [E. Álvarez](https://www.efootballhub.net/efootball23/player/142610)  |    88     | 18,000 |
 
 # Box to Box
-| Rating |     Name     | Potential | Price  |
-| :----: | :----------: | :-------: | :----: |
-|   75   | C. Rodriguez |           | 32,000 |
-|   75   |  R. Sanchez  |           | 32,000 |
-|   75   |  E. Sanchez  |           | 29,000 |
-|   73   |  J. Zapata   |           | 20,000 |
-|   73   |  F. Beltran  |           | 20,000 |
+| Rating |                                  Name                                  | Potential | Price  |
+| :----: | :--------------------------------------------------------------------: | :-------: | :----: |
+|   75   | [C. Rodríguez](https://www.efootballhub.net/efootball23/player/130256) |    89     | 32,000 |
+|   75   |  [R. Sánchez](https://www.efootballhub.net/efootball23/player/123146)  |    89     | 32,000 |
+|   75   |  [É. Sánchez](https://www.efootballhub.net/efootball23/player/118927)  |    89     | 29,000 |
+|   73   |  [J. Zapata](https://www.efootballhub.net/efootball23/player/128809)   |    88     | 20,000 |
+|   73   |  [F. Beltrán](https://www.efootballhub.net/efootball23/player/118813)  |    88     | 20,000 |
 
 # Anchor Man
-| Rating |     Name     | Potential | Price  |
-| :----: | :----------: | :-------: | :----: |
-|   74   | J. Rodriguez |           | 15,000 |
-|   74   |  G. Pizarro  |           | 15,000 |
-|   73   |   A. Rocha   |           | 15,000 |
-|   73   |  P. Aquino   |           | 15,000 |
-|   73   |  F. Lertora  |           | 15,000 |
+| Rating |                                  Name                                  | Potential | Price  |
+| :----: | :--------------------------------------------------------------------: | :-------: | :----: |
+|   74   | [J. Rodríguez](https://www.efootballhub.net/efootball23/player/103320) |    87     | 15,000 |
+|   74   |  [G. Pizarro](https://www.efootballhub.net/efootball23/player/41558)   |    87     | 15,000 |
+|   73   |   [A. Rocha](https://www.efootballhub.net/efootball23/player/61537)    |    87     | 15,000 |
+|   73   |   [P. Aquino](https://www.efootballhub.net/efootball23/player/48134)   |    87     | 15,000 |
+|   73   |  [F. Lértora](https://www.efootballhub.net/efootball23/player/45593)   |    87     | 15,000 |
 
 # The Destroyer
-| Rating |      Name       | Potential | Price  |
-| :----: | :-------------: | :-------: | :----: |
-|   74   |   D. de Buen    |           | 15,000 |
-|   74   |  Nathan Silva   |           | 20,000 |
-|   74   | Rodrigo Dourado |           | 22,000 |
-|   73   |   S. Caceres    |           | 20,000 |
-|   73   |  E. Gutierrez   |           | 15,000 |
+| Rating |                                   Name                                    | Potential | Price  |
+| :----: | :-----------------------------------------------------------------------: | :-------: | :----: |
+|   74   |   [D. de Buen](https://www.efootballhub.net/efootball23/player/118885)    |    87     | 15,000 |
+|   74   |  [Nathan Silva](https://www.efootballhub.net/efootball23/player/113481)   |    88     | 20,000 |
+|   74   | [Rodrigo Dourado](https://www.efootballhub.net/efootball23/player/106235) |    88     | 22,000 |
+|   73   |   [S. Cáceres](https://www.efootballhub.net/efootball23/player/145746)    |    88     | 20,000 |
+|   73   |  [É. Gutiérrez](https://www.efootballhub.net/efootball23/player/118918)   |    87     | 15,000 |
 
 # Orchestrator
-| Rating |      Name      | Potential | Price  |
-| :----: | :------------: | :-------: | :----: |
-|   75   |    L. Romo     |           | 32,000 |
-|   75   |  T. Belmonte   |           | 32,000 |
-|   75   | Alvaro Fidalgo |           | 22,000 |
-|   75   | Rafael Carioca |           | 32,000 |
-|   73   |    M. Ruiz     |           | 20,000 |
+| Rating |                                   Name                                   | Potential | Price  |
+| :----: | :----------------------------------------------------------------------: | :-------: | :----: |
+|   75   |    [L. Romo](https://www.efootballhub.net/efootball23/player/144713)     |    89     | 32,000 |
+|   75   |  [T. Belmonte](https://www.efootballhub.net/efootball23/player/118957)   |    89     | 32,000 |
+|   75   | [Álvaro Fidalgo](https://www.efootballhub.net/efootball23/player/116848) |    88     | 22,000 |
+|   75   | [Rafael Carioca](https://www.efootballhub.net/efootball23/player/38946)  |    89     | 32,000 |
+|   73   |    [M. Ruíz](https://www.efootballhub.net/efootball23/player/147940)     |    88     | 20,000 |
 
 # Build Up
 | Rating |    Name     | Potential | Price  |
