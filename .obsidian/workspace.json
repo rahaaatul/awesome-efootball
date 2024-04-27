@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "data/top-five/Liga BBVA MX.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1a342d0522c6f9d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "TODO.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -146,10 +157,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efdbd6d33f42eb89",
+  "active": "717a14735429a1de",
   "lastOpenFiles": [
-    "data/top-five/J. League.md",
+    "TODO.md",
+    "TODO.md",
+    "data/top-five/Liga BBVA MX.md",
+    "efootball/information",
+    "efootball",
+    "eFootball/information",
+    "eFootball/informatin",
+    "eFootball",
     "README.md",
-    "data/top-five/Liga BBVA MX.md"
+    "data/top-five/J. League.md"
   ]
 }
