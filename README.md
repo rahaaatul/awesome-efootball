@@ -1,24 +1,28 @@
 # Awesome eFootball
 
-Table of Contents
+*Table of Contents*
 - [Database Sites](#database-sites)
 - [Top 5 Base Players by Playstyles](#top-5-base-players-by-playstyles)
 - [YouTubers to Watch](#youtubers-to-watch)
+- [eFootball Tools](#efootball-tools)
 - [Contribute](#contribute)
 
-## Database Sites
+# Database Sites
 - [eFootball Hub](https://efootballhub.net/)
 - [eFootball DB](https://www.efootballdb.com/)
 - [PESDB](https://pesdb.net/efootball/)
 
-## Top 5 Base Players by Playstyles
+# Top 5 Standard Players by Playstyles
 
 - [Liga BBVA MX](https://github.com/rahaaatul/awesome-efootball/blob/main/data/top-five/Liga%20BBVA%20MX.md)
 - [J. League](https://github.com/rahaaatul/awesome-efootball/blob/main/data/top-five/J.%20League.md) `Under Construction`
 
-## YouTubers to Watch
-- [dedalus2k14](https://www.youtube.com/@dedalus2k143)
-- [LFFL](https://www.youtube.com/@ITZLFFL)
+# YouTubers to Watch
+- [dedalus2k14](https://www.youtube.com/@dedalus2k143) - Outstanding analysis on eFootball Mechanics
+- [LFFL](https://www.youtube.com/@ITZLFFL) - Similar to dedalus2k14 but more active
+
+# eFootball Tools
+- [eFootball FPS Limit & VSync Patcher](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher) - Change the FPS Limit of eFootball to your desired limit and enable/disable VSync.
 # Contribute
 You can contribute in two ways. 
 - [Pull requests](https://github.com/rahaaatul/awesome-efootball/pulls): Add, Replace or Edit entries and Push!
