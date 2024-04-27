@@ -7,6 +7,9 @@ kanban-plugin: basic
 ## To Do
 
 - [ ] Add Top 5 Players in J. League by playstyles
+- [ ] Add more eFootball Tools
+- [ ] Add more YouTube Channels
+- [ ] Add Playstyles Data
 
 
 ## Doing
@@ -18,6 +21,7 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+- [x] Start the "Awesome eFootball" project.
 
 
 
