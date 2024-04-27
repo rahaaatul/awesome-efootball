@@ -12,7 +12,7 @@
 - [eFootball DB](https://www.efootballdb.com/)
 - [PESDB](https://pesdb.net/efootball/)
 - [WebTedEditor](https://dev.webtededitor.com/) - Awesome website lets you see data in-depth
-	- [Players](https://dev.webtededitor.com/Data/Player/Search)/[Teams](https://dev.webtededitor.com/Data/Team/Search)/[Coaches](https://dev.webtededitor.com/Data/Coach/Search)/[Competitions](https://dev.webtededitor.com/Data/Competition/Search)/[Others](https://dev.webtededitor.com/Data/Other/Search)
+	- [Players](https://dev.webtededitor.com/Data/Player/Search)/ [Teams](https://dev.webtededitor.com/Data/Team/Search)/ [Tactics](https://dev.webtededitor.com/Data/Tactic/Search)/ [Coaches](https://dev.webtededitor.com/Data/Coach/Search)/ [Competitions](https://dev.webtededitor.com/Data/Competition/Search)/ [Others](https://dev.webtededitor.com/Data/Other/Search)
 
 # Top 5 Standard Players by Playstyles
 - [Liga BBVA MX](https://github.com/rahaaatul/awesome-efootball/blob/main/data/top-five/Liga%20BBVA%20MX.md)
