@@ -13,7 +13,6 @@
 - [PESDB](https://pesdb.net/efootball/)
 
 # Top 5 Standard Players by Playstyles
-
 - [Liga BBVA MX](https://github.com/rahaaatul/awesome-efootball/blob/main/data/top-five/Liga%20BBVA%20MX.md)
 - [J. League](https://github.com/rahaaatul/awesome-efootball/blob/main/data/top-five/J.%20League.md) `Under Construction`
 
@@ -23,6 +22,7 @@
 
 # eFootball Tools
 - [eFootball FPS Limit & VSync Patcher](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher) - Change the FPS Limit of eFootball to your desired limit and enable/disable VSync.
+- [WebTedEditor](https://dev.webtededitor.com/Home/Credit) - Awesome tool to find lots of eFootball data
 # Contribute
 You can contribute in two ways. 
 - [Pull requests](https://github.com/rahaaatul/awesome-efootball/pulls): Add, Replace or Edit entries and Push!
