@@ -11,7 +11,7 @@
 - [eFootball Hub](https://efootballhub.net/)
 - [eFootball DB](https://www.efootballdb.com/)
 - [PESDB](https://pesdb.net/efootball/)
-- [WebTedEditor](https://dev.webtededitor.com/) - 
+- [WebTedEditor](https://dev.webtededitor.com/) - Awesome website lets you see data in-depth
 	- [Players](https://dev.webtededitor.com/Data/Player/Search)/[Teams](https://dev.webtededitor.com/Data/Team/Search)/[Coaches](https://dev.webtededitor.com/Data/Coach/Search)/[Competitions](https://dev.webtededitor.com/Data/Competition/Search)/[Others](https://dev.webtededitor.com/Data/Other/Search)
 
 # Top 5 Standard Players by Playstyles
@@ -24,7 +24,7 @@
 
 # eFootball Tools
 - [eFootball FPS Limit & VSync Patcher](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher) - Change the FPS Limit of eFootball to your desired limit and enable/disable VSync.
-- [WebTedEditor](https://dev.webtededitor.com/) - Awesome website to find lots of eFootball data
+- [WebTedEditor](https://dev.webtededitor.com/) - Awesome website with lots of tools 
 	- [`.bin` File Compression / Decompression Tool](https://dev.webtededitor.com/Mod/BinFile)
 	- [Kit Configure Tool](https://dev.webtededitor.com/Mod/KitConfigure) - [Tutorial](https://evoweb.uk/threads/94865/)
 	- [Kit Preview Tool](https://dev.webtededitor.com/Mod/KitPreview) - [Tutorial](https://evoweb.uk/threads/97454/)
