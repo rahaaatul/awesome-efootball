@@ -27,7 +27,16 @@
 - [LFFL](https://www.youtube.com/@ITZLFFL) - Similar to dedalus2k14 but more active
 
 ## eFootball Tools
-- [eFootball FPS Limit & VSync Patcher](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher) - Change the FPS Limit of eFootball to your desired limit and enable/disable VSync.
+- [eFootball FPS Limit & VSync Patcher](https://github.com/CadiLillian/eFootball-FPS-Limit-and-VSync-Patcher) - Change the FPS Limit of eFootball to your desired limit and enable/disable VSync
+- <details><summary><a href=https://mimo-site.streamlit.app>Mimo's Analysis Tools</a> - <i>Player Analysis / Visualization tools</i></summary>
+
+	- [Player Analysis](https://mimo-site.streamlit.app/Player_Analysis)
+	- [Player Skill Suggest](https://mimo-site.streamlit.app/Player_Skill_Suggest)
+	- [Similar Player Search](https://mimo-site.streamlit.app/Similar_Player_Search)
+	- [List Player by Skill Training](https://mimo-site.streamlit.app/List_Player_By_Skill_Training)
+	- [3D PCA Projection](https://mimo-site.streamlit.app/3D_PCA_Projection)
+	- [POTW Explorer](https://mimo-site.streamlit.app/POTW_Explorer)
+
 - <details><summary><a href=https://dev.webtededitor.com/Mod>WebTedEditor</a> - <i>Awesome website with lots of tools</i></summary>
 
 	- [`.bin` File Compression / Decompression Tool](https://dev.webtededitor.com/Mod/BinFile)
