@@ -1,4 +1,4 @@
-# Advanced Striker / Goal Poacher `CF`
+# Advanced Striker / Goal Poacher > `CF`
 
 <details> <summary>Official Description</summary> 
 
@@ -10,31 +10,42 @@ A predatory striker who plays off the shoulders of the last defender.
 
 Imagine you're playing as a striker who's always ready to pounce on any opportunity to score. You'll be constantly looking to make clever runs behind the opposing defenders, positioning yourself perfectly to receive passes and put the ball into the back of the net.
 
-Compatible Positions: CF
+# Dummy Runner > `CF` | `SS` | `AMF`
 
-# Dummy Runner `CF` | `SS` | `AMF`
+<details> <summary>Official Description</summary> 
 
-<details> <summary>Official Description</summary> **A player who distracts the defense to create space for other players to exploit.** </details>
+**A player who distracts the defense to create space for other players to exploit.** 
+
+</details>
 
 This playstyle involves distracting the defense to create space for your teammates to exploit. You'll be like a decoy, drawing defenders away from where the action is happening, allowing your teammates to find openings and launch attacks.
 
-Compatible Positions: `CF`/`SS`/`AMF`
+# Poacher / Fox in the box > `CF`
 
-# Poacher / Fox in the box
-<details> <summary>Official Description</summary> A striker who lurks in the opposition 18 yard box just waiting for the ball. </details>
+<details> <summary>Official Description</summary> 
+
+*A striker who lurks in the opposition 18 yard box just waiting for the ball.*
+
+</details>
 
 Picture yourself as a striker lurking in the opponent's penalty area, waiting for the perfect moment to strike. You'll be deadly in front of goal, ready to capitalize on any loose balls or rebounds to score goals and lead your team to victory.
 
-Compatible Positions: CF
+# Target Man > `CF`
 
-# Target Man
-<details> <summary>Official Description</summary> A player that positions himself on the frontlines as a target man and protects the ball with his
-physique. </details>
-Compatible Positions: CF
+<details> <summary>Official Description</summary> 
 
-# Deep-Lying Forward
-<details> <summary>Official Description</summary> A forward player that is willing to fall back to receive the ball and help create plays. </details>
-Compatible Positions: CF/SS
+A player that positions himself on the frontlines as a target man and protects the ball with his
+physique. 
+
+</details>
+
+As a target man, you'll be the focal point of your team's attacking play. Your job is to use your strength and physicality to hold up the ball and bring your teammates into the game. You'll be a constant threat in the air, winning headers and causing havoc in the opponent's defense.
+# Deep-Lying Forward `CF` | `SS`
+<details> <summary>Official Description</summary>
+
+A forward player that is willing to fall back to receive the ball and help create plays.
+
+</details>
 
 # Creative Playmaker
 <details> <summary>Official Description</summary> A player who takes advantage of gaps in the defense to initiate attacks and assist in shots on
