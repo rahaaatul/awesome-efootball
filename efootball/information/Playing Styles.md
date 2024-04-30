@@ -46,12 +46,17 @@ physique.
 </details>
 
 As a target man, you'll be the focal point of your team's attacking play. Your job is to use your strength and physicality to hold up the ball and bring your teammates into the game. You'll be a constant threat in the air, winning headers and causing havoc in the opponent's defense.
+
 # Deep-Lying Forward `CF` | `SS`
 <details> <summary>Official Description</summary>
 
+```
 A forward player that is willing to fall back to receive the ball and help create plays.
+```
 
 </details>
+
+This playstyle involves dropping deep to receive the ball and help create scoring opportunities for your team. You'll be like a playmaker upfront, combining your attacking instincts with your ability to link up play and set up your teammates for goal-scoring chances.
 
 # Creative Playmaker
 <details> <summary>Official Description</summary> A player who takes advantage of gaps in the defense to initiate attacks and assist in shots on
