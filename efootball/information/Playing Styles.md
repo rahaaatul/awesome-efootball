@@ -1,4 +1,5 @@
-> [!Important] Understanding playstyles enables you to- 
+> [!Important] 
+> Understanding playstyles enables you to- 
 > - Adapt to different tactical situations on the pitch.
 > - Anticipate your teammates' and opponents' movements more effectively, giving you an edge during gameplay.
 > - Recognize and exploit opponents' weaknesses by understanding their playstyles.
