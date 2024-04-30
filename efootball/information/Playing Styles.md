@@ -14,7 +14,9 @@ Imagine you're playing as a striker who's always ready to pounce on any opportun
 
 <details> <summary>Official Description</summary> 
 
-**A player who distracts the defense to create space for other players to exploit.** 
+```
+A player who distracts the defense to create space for other players to exploit.
+```
 
 </details>
 
@@ -24,7 +26,9 @@ This playstyle involves distracting the defense to create space for your teammat
 
 <details> <summary>Official Description</summary> 
 
-*A striker who lurks in the opposition 18 yard box just waiting for the ball.*
+```
+A striker who lurks in the opposition 18 yard box just waiting for the ball.
+```
 
 </details>
 
@@ -34,8 +38,10 @@ Picture yourself as a striker lurking in the opponent's penalty area, waiting fo
 
 <details> <summary>Official Description</summary> 
 
+```
 A player that positions himself on the frontlines as a target man and protects the ball with his
 physique. 
+```
 
 </details>
 
