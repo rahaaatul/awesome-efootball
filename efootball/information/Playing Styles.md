@@ -47,8 +47,7 @@ Picture yourself as a striker lurking in the opponent's penalty area, waiting fo
 <details> <summary>Official Description</summary> 
 
 ```
-A player that positions himself on the frontlines as a target man and protects the ball with his
-physique. 
+A player that positions himself on the frontlines as a target man and protects the ball with his physique. 
 ```
 
 </details>
@@ -83,8 +82,7 @@ Imagine yourself as the engine of your team's attack, constantly probing the opp
 <details> <summary>Official Description</summary> 
 
 ```
-A player who receives passes on the wings, occasionally cutting into the center when he has
-the chance.
+A player who receives passes on the wings, occasionally cutting into the center when he has the chance.
 ```
 
  </details>
@@ -129,7 +127,10 @@ As a classic number 10, you'll be the creative hub of your team, dictating the t
 
 # Hole Player > `SS` | `AMF` | `RMF` | `LMF` | `CMF`
 
-<details> <summary>Official Description</summary> A player with a sharp eye for goals who surges forward at any given opportunity. 
+<details> <summary>Official Description</summary> 
+
+```
+A player with a sharp eye for goals who surges forward at any given opportunity. 
 ```
 
 </details>
@@ -201,8 +202,7 @@ Imagine yourself as a composed defender who's comfortable on the ball and always
 <details> <summary>Official Description</summary> 
 
 ```
-A defender who likes to join in the attack and lay siege to the opposing goal at every given
-opportunity. 
+A defender who likes to join in the attack and lay siege to the opposing goal at every given opportunity. 
 ```
 
 </details>
@@ -250,8 +250,7 @@ Imagine yourself as a fullback who loves to get forward and contribute to your t
 <details> <summary>Official Description</summary> 
 
 ```
-A keeper playing a sweeper-type role who often comes out to cover the area behind the
-defense 
+A keeper playing a sweeper-type role who often comes out to cover the area behind the defense 
 ```
 
 </details>
