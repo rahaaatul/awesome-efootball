@@ -1,12 +1,18 @@
-# Advanced Striker / Goal Poacher
+# Advanced Striker / Goal Poacher `CF`
 
-<details> <summary>Official Description</summary> - ```A predatory striker who plays off the shoulders of the last defender.```</details>
+<details> <summary>Official Description</summary> 
+
+```
+A predatory striker who plays off the shoulders of the last defender.
+```
+
+</details>
 
 Imagine you're playing as a striker who's always ready to pounce on any opportunity to score. You'll be constantly looking to make clever runs behind the opposing defenders, positioning yourself perfectly to receive passes and put the ball into the back of the net.
 
 Compatible Positions: CF
 
-# Dummy Runner
+# Dummy Runner `CF` | `SS` | `AMF`
 
 <details> <summary>Official Description</summary> **A player who distracts the defense to create space for other players to exploit.** </details>
 
@@ -16,6 +22,9 @@ Compatible Positions: `CF`/`SS`/`AMF`
 
 # Poacher / Fox in the box
 <details> <summary>Official Description</summary> A striker who lurks in the opposition 18 yard box just waiting for the ball. </details>
+
+Picture yourself as a striker lurking in the opponent's penalty area, waiting for the perfect moment to strike. You'll be deadly in front of goal, ready to capitalize on any loose balls or rebounds to score goals and lead your team to victory.
+
 Compatible Positions: CF
 
 # Target Man
