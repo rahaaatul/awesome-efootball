@@ -47,7 +47,7 @@ physique.
 
 As a target man, you'll be the focal point of your team's attacking play. Your job is to use your strength and physicality to hold up the ball and bring your teammates into the game. You'll be a constant threat in the air, winning headers and causing havoc in the opponent's defense.
 
-# Deep-Lying Forward `CF` | `SS`
+# Deep-Lying Forward > `CF` | `SS`
 <details> <summary>Official Description</summary>
 
 ```
@@ -58,77 +58,61 @@ A forward player that is willing to fall back to receive the ball and help creat
 
 This playstyle involves dropping deep to receive the ball and help create scoring opportunities for your team. You'll be like a playmaker upfront, combining your attacking instincts with your ability to link up play and set up your teammates for goal-scoring chances.
 
-# Creative Playmaker
+# Creative Playmaker > `SS` | `RWF` | `LWF` | `AMF` | `RMF` | `LMF`
+
 <details> <summary>Official Description</summary> A player who takes advantage of gaps in the defense to initiate attacks and assist in shots on
 goal. </details>
-Compatible Positions: SS/RWF/LWF/AMF/RMF/LMF
 
-# Prolific Winger
+Imagine yourself as the engine of your team's attack, constantly probing the opposition's defense and looking for gaps to exploit. You'll be the one pulling the strings in midfield, orchestrating attacks and setting up your teammates for shots on goal higher up the pitch.
+
+# Prolific Winger > `RWF` | `LWF`
 <details> <summary>Official Description</summary> A player who receives passes on the wings, occasionally cutting into the center when he has
 the chance. </details>
-Compatible Positions: RWF/LWF
 
-# Roaming Flank
+# Roaming Flank > `RWF` | `LWF` | `RMF` | `LMF`
 <details> <summary>Official Description</summary> A player who tends to cut inside from the wing to receive passes. </details>
-Compatible Positions: RWF/LWF/RMF/LMF
 
-# Cross Specialist
+# Cross Specialist > `RWF` | `LWF` | `RMF` | `LMF`
 <details> <summary>Official Description</summary> A player who hugs the sideline, waiting for a chance to cross the ball in. </details>
-Compatible Positions: RWF/LWF/RMF/LMF
 
-# Classic No. 10
+# Classic No. 10 > `SS` | `AMF`
 <details> <summary>Official Description</summary> A playmaker who initiates attacks near the penalty area and will present himself to score when
 opportunities arise. When defending, he refrains from dashing to minimize stamina loss. </details>
-Compatible Positions: SS/AMF
 
-# Hole Player
+# Hole Player > `SS` | `AMF` | `RMF` | `LMF` | `CMF`
 <details> <summary>Official Description</summary> A player with a sharp eye for goals who surges forward at any given opportunity. </details>
-Compatible Positions: SS/AMF/RMF/LMF/CMF
 
-# Box-to-Box
+# Box-to-Box > `RMF` | `LMF` | `CMF` | `DMF`
 <details> <summary>Official Description</summary> A player who tirelessly covers every blade of grass for the full 90 minutes. </details>
-Compatible Positions: RMF/LMF/CMF/DMF
 
-# Anchor Man
+# Anchor Man > `DMF`
 <details> <summary>Official Description</summary> A deep-sitting defensive midfielder protecting the backline. </details>
-Compatible Positions: DMF
 
-# The Destroyer
+# The Destroyer > `CMF` | `DMF` | `CB`
 <details> <summary>Official Description</summary> A tenacious battler who keeps opposition attacks at bay through hard tackling and pressing. </details>
-Compatible Positions: CMF/DMF/CB
 
-# Orchestrator
+# Orchestrator > `CMF` | `DMF`
 <details> <summary>Official Description</summary> A player who lurks in deeper positions, ready to initiate attacks. </details>
-Compatible Positions: CMF/DMF
 
-# Build Up
+# Build Up > `CB`
 <details> <summary>Official Description</summary> A player who likes to drop back to receive the ball and trigger attacks from deep. </details>
-Compatible Positions: CB
 
-# Extra Frontman
+# Extra Frontman > `CB`
 <details> <summary>Official Description</summary> A defender who likes to join in the attack and lay siege to the opposing goal at every given
 opportunity. </details>
-Compatible Positions: CB
 
-# Offensive Fullback
+# Offensive Fullback > `RB` | `LB`
 <details> <summary>Official Description</summary>An attack-minded fullback who will run upfield and join the attack when presented with a chance </details>
 
-Compatible Positions: RB/LB
-
-# Defensive Fullback
+# Defensive Fullback > `RB` | `LB`
 <details> <summary>Official Description</summary> A solid fullback who prefers to stay back and stick to defensive duties </details>
-Compatible Positions: RB/LB
 
-# Fullback Finisher
+# Fullback Finisher > `RB` | `LB`
 <details> <summary>Official Description</summary> An attacking fullback who enjoys joining the attack in high central areas </details>
-Compatible Positions: RB/LB
 
-# Offensive Goalkeeper
+# Offensive Goalkeeper > `GK`
 <details> <summary>Official Description</summary>A keeper playing a sweeper-type role who often comes out to cover the area behind the
 defense </details>
 
-Compatible Positions: GK
-
-# Defensive Goalkeeper
+# Defensive Goalkeeper > `GK`
 <details> <summary>Official Description</summary> A solid keeper who prefers to stay around the goal line </details>
-Compatible Positions: GK
