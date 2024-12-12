@@ -3,7 +3,11 @@
 ### Advanced Striker / Goal Poacher
 | Rating | Name | Potential | Price |
 | :----: | :--: | :-------: | :---: |
-|        |      |           |       |
+|89	|anderson lopes	 |92	|32,000|
+|88	|kasper junker	 |91	|22,000|
+|87	|taisei Miyashiro|90	|13,000|
+|87	|mao hosaya	 |90	|13,000|
+|86	|yuya yamagishi	 |89	|10,000|
 
 ### Dummy Runner
 | Rating | Name | Potential | Price |
