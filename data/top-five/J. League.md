@@ -19,17 +19,21 @@
 
 | Rating |       Name       | Potential | Price |
 | :----: | :--------------: | :-------: | :---: |
-|   71   | Takuma Nishimura |           | 8,000 |
-|   69   |  Talles Brener   |           | 7,500 |
-|   68   |  Cayman Togashi  |           | 5,900 |
-|   68   |     Ezequiel     |           | 5,900 |
-|   67   |   Satoki Uejo    |           | 5,600 |
+|   71   | Takuma Nishimura |     85    | 8,000 |
+|   69   |  Talles Brener   |     85    | 7,500 |
+|   68   |  Cayman Togashi  |     84    | 5,900 |
+|   68   |     Ezequiel     |     84    | 5,900 |
+|   67   |   Satoki Uejo    |     84    | 5,600 |
 
 ### Poacher / Fox in the box
 
-| Rating | Name | Potential | Price |
-| :----: | :--: | :-------: | :---: |
-|        |      |           |       |
+| Rating |        Name      | Potential | Price  |
+| :----: | :--------------: | :-------: | :----: |
+|   74	 |    Léo Ceará	    |     87	  | 15,000 |
+|   73	 |   Yuma Suzuki	  |     87	  | 15,000 |
+|   72	 |  Diego Oliveira  |     86	  | 10,000 |
+|   71	 |  Thiago Santana  |     86	  | 10,000 |
+|   71	 |   Rafael Elias   |     86	  | 9,800  |
 
 ### Target Man
 
