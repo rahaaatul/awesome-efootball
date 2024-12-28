@@ -37,9 +37,13 @@
 
 ### Target Man
 
-| Rating | Name | Potential | Price |
-| :----: | :--: | :-------: | :---: |
-|        |      |           |       |
+| Rating |        Name       | Potential | Price  |
+| :----: | :---------------: | :-------: | :----: |
+|   74	 |  Matheus Peixoto  |     87	   | 15,000 |
+|   73	 | Goncalo Paciencia |     87	   | 14,000 |
+|   71	 |   Luiz Phellype   |     85	   | 8,000  |
+|   71	 |       Patric	     |     85	   | 8,000  |
+|   70	 |     Oh Se-Hun	   |     85	   | 7,500  |
 
 ### Deep Lying Forward
 
